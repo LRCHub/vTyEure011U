@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GG",
+  "base_artist": "ReoNa",
+  "createdAt": "2026-02-10T11:52:16.624591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Insane (Feat. Candice \"Gg\" Nelson)",
+      "artist": "Timbaland & Magoo",
+      "has_synced": true,
+      "path": "select/01_Insane_(Feat._Candice__Gg__Nelson)_Timbaland_&_Magoo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go-GG-Go",
+      "artist": "Racer X",
+      "has_synced": true,
+      "path": "select/02_Go-GG-Go_Racer_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Insane (featuring Candice Gg Nelson)",
+      "artist": "Timbaland & Magoo",
+      "has_synced": true,
+      "path": "select/03_Insane_(featuring_Candice_Gg_Nelson)_Timbaland_&_Magoo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "gg",
+      "artist": "Origami Angel",
+      "has_synced": false,
+      "path": "select/04_gg_Origami_Angel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GG",
+      "artist": "Todrick Hall",
+      "has_synced": true,
+      "path": "select/05_GG_Todrick_Hall.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GG Be",
+      "artist": "SEUNGRI feat. JENNIE",
+      "has_synced": true,
+      "path": "select/06_GG_Be_SEUNGRI_feat._JENNIE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GG Be",
+      "artist": "SEUNGRI",
+      "has_synced": true,
+      "path": "select/07_GG_Be_SEUNGRI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GG",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/08_GG_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Frontlines (Feat. GG Magree)",
+      "artist": "Zeds Dead x NGHTMRE",
+      "has_synced": true,
+      "path": "select/09_Frontlines_(Feat._GG_Magree)_Zeds_Dead_x_NGHTMRE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Falling Fast (feat. GG Magree)",
+      "artist": "Seven Lions feat. GG Magree",
+      "has_synced": true,
+      "path": "select/10_Falling_Fast_(feat._GG_Magree)_Seven_Lions_feat._GG_Magree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Falling Fast (feat. GG Magree)",
+      "artist": "Seven Lions",
+      "has_synced": true,
+      "path": "select/11_Falling_Fast_(feat._GG_Magree)_Seven_Lions.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Miss You (feat. GG Magree)",
+      "artist": "Seven Lions feat. GG Magree",
+      "has_synced": false,
+      "path": "select/12_Miss_You_(feat._GG_Magree)_Seven_Lions_feat._GG_Magree.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Miss You (feat. GG Magree)",
+      "artist": "Seven Lions",
+      "has_synced": false,
+      "path": "select/13_Miss_You_(feat._GG_Magree)_Seven_Lions.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GG Worldwide",
+      "artist": "Shy Glizzy",
+      "has_synced": true,
+      "path": "select/14_GG_Worldwide_Shy_Glizzy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Frontlines (feat. GG Magree)",
+      "artist": "Zeds Dead & NGHTMRE",
+      "has_synced": true,
+      "path": "select/15_Frontlines_(feat._GG_Magree)_Zeds_Dead_&_NGHTMRE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GG Be (지지베) [feat. Jennie Kim of YG New Artist]",
+      "artist": "SeungRi",
+      "has_synced": true,
+      "path": "select/16_GG_Be_(지지베)_[feat._Jennie_Kim_of_YG_New_Artist]_SeungRi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GG BE (지지베)",
+      "artist": "승리 feat. Jennie Kim of YG new artist",
+      "has_synced": true,
+      "path": "select/17_GG_BE_(지지베)_승리_feat._Jennie_Kim_of_YG_new_artist.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gg the Giraffe",
+      "artist": "Steam Powered Giraffe",
+      "has_synced": true,
+      "path": "select/18_Gg_the_Giraffe_Steam_Powered_Giraffe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GG",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_GG_ReoNa.txt"
+    }
+  ]
+}
